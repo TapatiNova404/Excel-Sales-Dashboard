@@ -5,8 +5,8 @@ An interactive and visually engaging Excel Sales Dashboard built using a Superst
 
 ## 🖼️ Dashboard Preview
 
-!Dashboard1.png
-!Dashboard3.png
+![Dashboard Screenshot] (Dashboard1.png)
+![Dashboard Screenshot] (Dashboard3.png)
 
 
 ---
