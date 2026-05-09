@@ -3,13 +3,7 @@
 ## 🚀 Project Overview
 An interactive and visually engaging Excel Sales Dashboard built using a Superstore dataset. This project transforms raw business data into meaningful insights through dynamic visualizations, slicers, Pivot Tables, charts, and VBA-enabled report connections for better decision-making and performance analysis.
 
-## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot] (Dashboard1.png)
-![Dashboard Screenshot] (Dashboard3.png)
-
-
----
 
 ## ✨ Key Features
 ✔️ Interactive Slicers  
