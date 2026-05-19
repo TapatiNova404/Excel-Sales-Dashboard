@@ -5,6 +5,15 @@ An interactive and visually engaging Excel Sales Dashboard built using a Superst
 
 ---
 
+# 📷 Screenshots
+
+## 🔹 Sales Dashboard
+
+![Sales Dashboard](Dashboard1.png)
+![Sales Dashboard](Dashboard2.png)
+
+---
+
 ## ✨ Key Features
 ✔️ Interactive Slicers  
 ✔️ Pivot Table Analysis  
@@ -13,15 +22,6 @@ An interactive and visually engaging Excel Sales Dashboard built using a Superst
 ✔️ Customer Segment Analysis  
 ✔️ Product Category Performance  
 ✔️ VBA/Macro-based Report Connections  
-
----
-
-# 📷 Screenshots
-
-## 🔹 Sales Dashboard
-
-![Sales Dashboard](Dashboard1.png)
-![Sales Dashboard](Dashboard2.png)
 
 ---
 
