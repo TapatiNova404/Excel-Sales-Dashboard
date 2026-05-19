@@ -16,6 +16,16 @@ An interactive and visually engaging Excel Sales Dashboard built using a Superst
 
 ---
 
+# 📷 Screenshots
+
+## 🔹 Sales Dashboard
+
+![Sales Dashboard](Dashboard1.png)
+![Sales Dashboard](Dashboard2.png)
+
+---
+
+
 ## 🛠️ Tools & Technologies
 - Microsoft Excel
 - Pivot Tables
